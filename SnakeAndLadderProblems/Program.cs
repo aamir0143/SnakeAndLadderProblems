@@ -8,7 +8,7 @@ namespace SnakeAndLadderProblems
         {
             Console.WriteLine("==========Welcome To Snake And Ladder Game========");
             SnakeAndLadder snakeAndLadder = new SnakeAndLadder();
-            snakeAndLadder.StartGame(); 
+            snakeAndLadder.StartGame();
             Console.ReadLine();
         }
     }
